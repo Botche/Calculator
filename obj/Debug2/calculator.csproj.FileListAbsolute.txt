@@ -1,0 +1,10 @@
+C:\Users\Veso\Desktop\Programs\C#\calculator\bin\Debug2\calculator.exe.config
+C:\Users\Veso\Desktop\Programs\C#\calculator\bin\Debug2\calculator.exe
+C:\Users\Veso\Desktop\Programs\C#\calculator\bin\Debug2\calculator.pdb
+C:\Users\Veso\Desktop\Programs\C#\calculator\obj\Debug2\calculator.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\calculator\obj\Debug2\calculator.Form1.resources
+C:\Users\Veso\Desktop\Programs\C#\calculator\obj\Debug2\calculator.Properties.Resources.resources
+C:\Users\Veso\Desktop\Programs\C#\calculator\obj\Debug2\calculator.csproj.GenerateResource.cache
+C:\Users\Veso\Desktop\Programs\C#\calculator\obj\Debug2\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\calculator\obj\Debug2\calculator.exe
+C:\Users\Veso\Desktop\Programs\C#\calculator\obj\Debug2\calculator.pdb
