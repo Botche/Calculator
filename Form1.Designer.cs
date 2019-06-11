@@ -50,6 +50,7 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.button20 = new System.Windows.Forms.Button();
             this.button21 = new System.Windows.Forms.Button();
+            this.button22 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -244,10 +245,13 @@
             // 
             // textBox1
             // 
+            this.textBox1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.textBox1.Enabled = false;
             this.textBox1.Location = new System.Drawing.Point(33, 26);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(258, 52);
+            this.textBox1.ReadOnly = true;
+            this.textBox1.Size = new System.Drawing.Size(241, 52);
             this.textBox1.TabIndex = 20;
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
@@ -255,7 +259,7 @@
             // 
             this.button20.Location = new System.Drawing.Point(216, 84);
             this.button20.Name = "button20";
-            this.button20.Size = new System.Drawing.Size(75, 111);
+            this.button20.Size = new System.Drawing.Size(58, 111);
             this.button20.TabIndex = 21;
             this.button20.Text = "(";
             this.button20.UseVisualStyleBackColor = true;
@@ -265,17 +269,29 @@
             // 
             this.button21.Location = new System.Drawing.Point(216, 201);
             this.button21.Name = "button21";
-            this.button21.Size = new System.Drawing.Size(75, 108);
+            this.button21.Size = new System.Drawing.Size(58, 108);
             this.button21.TabIndex = 22;
             this.button21.Text = ")";
             this.button21.UseVisualStyleBackColor = true;
             this.button21.Click += new System.EventHandler(this.Button21_Click);
             // 
+            // button22
+            // 
+            this.button22.Location = new System.Drawing.Point(252, 55);
+            this.button22.Name = "button22";
+            this.button22.Size = new System.Drawing.Size(22, 23);
+            this.button22.TabIndex = 23;
+            this.button22.Text = "D";
+            this.button22.UseVisualStyleBackColor = true;
+            this.button22.Click += new System.EventHandler(this.Button22_Click_1);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(322, 321);
+            this.BackColor = System.Drawing.Color.DarkGray;
+            this.ClientSize = new System.Drawing.Size(304, 327);
+            this.Controls.Add(this.button22);
             this.Controls.Add(this.button21);
             this.Controls.Add(this.button20);
             this.Controls.Add(this.textBox1);
@@ -298,8 +314,10 @@
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
+            this.Cursor = System.Windows.Forms.Cursors.Default;
             this.Name = "Form1";
             this.Text = "Calculator";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -329,6 +347,7 @@
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Button button20;
         private System.Windows.Forms.Button button21;
+        private System.Windows.Forms.Button button22;
     }
 }
 

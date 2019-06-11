@@ -1,7 +1,2 @@
 ﻿TODO:
    1. 10 - 11 = error
-   2. ( x + y + z ) to be done
-   3. x / 0 -> very bad!!!
-   4. To write it TextBox without clicking on the buttons.
-   5. Dark Theme
-   6. StringBuilder!
