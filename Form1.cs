@@ -7,10 +7,10 @@ using System.Windows.Forms;
 
 namespace calculator
 {
-    public partial class Form1 : Form
+    public partial class Calculator : Form
     {
         #region Forms
-        public Form1()
+        public Calculator()
         {
             InitializeComponent();
 

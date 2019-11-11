@@ -8,3 +8,12 @@ C:\Users\Veso\Desktop\Programs\C#\calculator\obj\Debug2\calculator.csproj.Genera
 C:\Users\Veso\Desktop\Programs\C#\calculator\obj\Debug2\calculator.csproj.CoreCompileInputs.cache
 C:\Users\Veso\Desktop\Programs\C#\calculator\obj\Debug2\calculator.exe
 C:\Users\Veso\Desktop\Programs\C#\calculator\obj\Debug2\calculator.pdb
+D:\музика габи\Programs\GitHub\Calculator\bin\Debug2\calculator.exe.config
+D:\музика габи\Programs\GitHub\Calculator\bin\Debug2\calculator.exe
+D:\музика габи\Programs\GitHub\Calculator\bin\Debug2\calculator.pdb
+D:\музика габи\Programs\GitHub\Calculator\obj\Debug2\calculator.csprojAssemblyReference.cache
+D:\музика габи\Programs\GitHub\Calculator\obj\Debug2\calculator.Properties.Resources.resources
+D:\музика габи\Programs\GitHub\Calculator\obj\Debug2\calculator.csproj.GenerateResource.cache
+D:\музика габи\Programs\GitHub\Calculator\obj\Debug2\calculator.exe
+D:\музика габи\Programs\GitHub\Calculator\obj\Debug2\calculator.pdb
+D:\музика габи\Programs\GitHub\Calculator\obj\Debug2\calculator.Calculator.resources
